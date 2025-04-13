@@ -1,6 +1,6 @@
 # 📝 Blog Management App
 
-A desktop application developed using Python and Tkinter that allows users to manage their personal blogs with ease. This project was created as part of a Python certification program by Microsoft.
+A desktop application developed using Python and Tkinter that allows users to manage their personal blogs with ease.
 
 ---
 
