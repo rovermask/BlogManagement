@@ -47,7 +47,7 @@ A desktop application developed using Python and Tkinter that allows users to ma
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/blog-management-app.git
+   git clone https://github.com/roevermask/blog-management-app.git
    cd blog-management-app
 
 
