@@ -49,3 +49,6 @@ A desktop application developed using Python and Tkinter that allows users to ma
    ```bash
    git clone https://github.com/your-username/blog-management-app.git
    cd blog-management-app
+
+
+Author : Vibhum Sharma
